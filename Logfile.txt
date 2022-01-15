@@ -1,6 +1,6 @@
 Logfile
 
-Jan 13
+Start Jan 13
 today i worked on JS
 - and then I added a sketchjs first file @ 19:17 (2022/01/13)
 - I add html file 23:46 (2022/01/14)
