@@ -11,6 +11,10 @@ function isSearch(){
 //Get URL of current page.
 const url = window.location.href;
 
+function Refresh() {
+    window.parent.location = window.parent.location.href;
+}
+
 //Only run on Google domain.
 if(url.includes(".google.") && isSearch()){
     //Initialization///////////////////////////////////////////////////////////
@@ -43,7 +47,6 @@ if(url.includes(".google.") && isSearch()){
         modifySearchResults(configuration["configuration"]);
     });
 }
-
 
 ////////////////////////////////////////////////////////////////////////
 
