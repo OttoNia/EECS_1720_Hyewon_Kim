@@ -13,6 +13,14 @@ h1{
     text-align: center;
     color: darkslateblue;
 }
+h2{
+    border-width: 2px;
+    width: 4cm;
+    margin: 10px;
+    padding: 10px;
+    color: rgb(188, 211, 255);
+    background-color: rgb(94, 57, 143);
+}
 
 h3{
     color: rgb(42, 72, 156);
