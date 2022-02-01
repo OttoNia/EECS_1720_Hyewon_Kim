@@ -1,6 +1,6 @@
 # EECS_1720_Hyewon_Kim
 
-This is a repo for 100-days-code and projects.
+# This is a repo for 100-days-code and projects.
 
 EECS 1720 first page creation
 
