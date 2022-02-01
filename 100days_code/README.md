@@ -1,1 +1,17 @@
 # 100-days-code
+
+Start Jan 13
+today i worked on JS
+- and then I added a sketchjs first file @ 19:17 (2022/01/13)
+- I add html file 23:46 (2022/01/14)
+- I add new css file and update html file 22:38 (2022/01/16)
+- I add new js file (2022/01/20)
+- I change text color use css and make img file and upload image (2022/01/22)
+- Change background color using css (2022/01/23)
+- resize img (2022/01/24)
+- Change styles using CSS (2022/01/25)
+- Quiz 1 in class work (2022/01/26)
+- Quiz 1 and project1 (2022/01/27)
+- change part of html file (2022/01/30)
+- Quiz 1 (2022/01/31)
+- Quiz 1 (2022/02/01)
