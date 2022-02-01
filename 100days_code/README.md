@@ -8,7 +8,7 @@ today i worked on JS
 - I add new js file (2022/01/20)
 - I change text color use css and make img file and upload image (2022/01/22)
 - Change background color using css (2022/01/23)
-- resize img (2022/01/24)
+- Resize img (2022/01/24)
 - Change styles using CSS (2022/01/25)
 - Quiz 1 in class work (2022/01/26)
 - Quiz 1 and project1 (2022/01/27)
