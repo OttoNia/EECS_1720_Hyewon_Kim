@@ -15,3 +15,5 @@ today i worked on JS
 - change part of html file (2022/01/30)
 - Quiz 1 (2022/01/31)
 - Quiz 1 (2022/02/01)
+- branches, Q & A (2022/02/02)
+- 
