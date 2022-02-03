@@ -14,6 +14,6 @@ today i worked on JS
 - Quiz 1 and project1 (2022/01/27)
 - change part of html file (2022/01/30)
 - Quiz 1 (2022/01/31)
-- Quiz 1 (2022/02/01)
+- Quiz 1 and lab1 (2022/02/01)
 - Branches, Q & A (2022/02/02)
 - 
