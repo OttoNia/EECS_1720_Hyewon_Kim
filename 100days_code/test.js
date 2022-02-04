@@ -1,1 +1,5 @@
-var 
+function reload() {
+
+    location.reload();
+
+}

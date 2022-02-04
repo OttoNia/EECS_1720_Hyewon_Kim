@@ -26,3 +26,11 @@ h3{
     color: rgb(42, 72, 156);
     font-size: 20px;
 }
+
+button{
+  width: 3cm; height: 1cm;
+  background-color: rgb(118, 162, 206);
+  color: rgb(183, 255, 233);
+  font-size: 10px;
+  text-shadow: 4px 2px 2px rgb(63, 58, 58);
+}
