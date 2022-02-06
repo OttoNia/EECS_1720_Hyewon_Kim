@@ -17,4 +17,5 @@ today i worked on JS
 - Quiz 1 and lab1 (2022/02/01)
 - Branches, Q & A (2022/02/02)
 - HTML & js (2022/02/03)
- - Quiz 1 (2022/02/04)
+- Quiz 1 (2022/02/04)
+- CSS (2022/02/05)
