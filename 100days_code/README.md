@@ -19,3 +19,4 @@ today i worked on JS
 - HTML & js (2022/02/03)
 - Quiz 1 (2022/02/04)
 - CSS (2022/02/05)
+- HTML (2022/02/07)
