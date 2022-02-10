@@ -12,3 +12,4 @@ EECS 1720 first page creation
 - Program used: Visual Studio Code
 - 
 https://github.com/OttoNia/EECS_1720_Hyewon_Kim/blob/main/Logfile.txt
+https://github.com/OttoNia/EECS_1720_Hyewon_Kim/blob/main/100days_code/README.md
