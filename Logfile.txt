@@ -21,3 +21,4 @@ Quiz 1 (2022/02/04)
 CSS (2022/02/05)
 HTML (2022/02/07)
 Python_VSC (2022/02/09) -My Practice Files
+check group project info
