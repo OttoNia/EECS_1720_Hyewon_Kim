@@ -22,3 +22,4 @@ today i worked on JS
 - HTML (2022/02/07)
 - Python_VSC (2022/02/09) -https://github.com/OttoNia/EECS_1720_Hyewon_Kim/tree/main/python%20test/python%20test
 - check group project info (2022/02/10)
+- Python_VSC (2022/02/11) -https://github.com/OttoNia/EECS_1720_Hyewon_Kim/tree/main/python%20test/python%20test
