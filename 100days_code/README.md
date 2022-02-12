@@ -20,5 +20,5 @@ today i worked on JS
 - Quiz 1 (2022/02/04)
 - CSS (2022/02/05)
 - HTML (2022/02/07)
-- Python_VSC (2022/02/09) -https://github.com/OttoNia/EECS_1720_Hyewon_Kim/tree/main/My%20Practice%20Files
+- Python_VSC (2022/02/09) -https://github.com/OttoNia/EECS_1720_Hyewon_Kim/tree/main/python%20test/python%20test
 - check group project info (2022/02/10)
