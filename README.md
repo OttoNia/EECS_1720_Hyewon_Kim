@@ -10,6 +10,7 @@ EECS 1720 first page creation
 - Change part of sketch.js file (add a new shape of a different color, change the color of an original shape)
 - Change my logfile time
 - Program used: Visual Studio Code
-- 
+
+# log file
 https://github.com/OttoNia/EECS_1720_Hyewon_Kim/blob/main/Logfile.txt
 https://github.com/OttoNia/EECS_1720_Hyewon_Kim/blob/main/100days_code/README.md
