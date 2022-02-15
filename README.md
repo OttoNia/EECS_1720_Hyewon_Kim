@@ -13,4 +13,4 @@ EECS 1720 first page creation
 
 # 100 days log file
 https://github.com/OttoNia/EECS_1720_Hyewon_Kim/blob/main/Logfile.txt
-https://github.com/OttoNia/EECS_1720_Hyewon_Kim/blob/main/100days_code/README.md
+https://github.com/OttoNia/EECS_1720_Hyewon_Kim/blob/main/100days_code/README.md <-- main
