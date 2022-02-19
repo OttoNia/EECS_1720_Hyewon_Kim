@@ -27,3 +27,4 @@ today i worked on JS
 - Discussing the group project with the group members and creatw qroup repo (2022/02/13) 
 - group project_Phase 1 (2022/02/14)
 - (2022/02/15)
+- Quiz2(2022/02/19)
