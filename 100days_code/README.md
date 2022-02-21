@@ -28,3 +28,4 @@ today i worked on JS
 - group project_Phase 1 (2022/02/14)
 - check info (2022/02/15)
 - Quiz2 (2022/02/19)
+- Quiz2 (2022/02/20)
