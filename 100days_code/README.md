@@ -35,3 +35,4 @@ today i worked on JS
 - lab2 (2022/02/25)
 - lab2 (2022/02/26)
 - Finish lab2 (2022/02/27) https://github.com/robots-make-art-too/Hyewon_Kim/tree/main/lab2
+- My loo-days code (2022/03/01)
