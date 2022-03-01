@@ -1,7 +1,7 @@
 # EECS_1720_Hyewon_Kim
 
 ## This repo is for 100-days-code and projects.
-### Please check ["https://github.com/OttoNia/Quiz_1.git" "https://github.com/robots-make-art-too/Hyewon_Kim"] for the quiz
+### Please check ["https://github.com/OttoNia/Quiz_1.git" and "https://github.com/robots-make-art-too/Hyewon_Kim"] for the quiz
 
 EECS 1720 first page creation
 
