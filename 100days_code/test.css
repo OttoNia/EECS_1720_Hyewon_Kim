@@ -10,8 +10,9 @@ body {
     border-style: solid;
     border-width: 2px;
     margin-bottom: 2px;
+    text-align: center;
     color: cornflowerblue;
-    width: 2cm;
+    width: 3cm;
     float: left
   }
 
