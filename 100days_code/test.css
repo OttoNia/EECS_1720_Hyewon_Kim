@@ -17,7 +17,8 @@ body {
   }
 
 .image {
-    
+    display : block;
+    margin : auto;
     }
 
 h1.one{
