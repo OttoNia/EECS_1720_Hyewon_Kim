@@ -36,3 +36,4 @@ today i worked on JS
 - lab2 (2022/02/26)
 - Finish lab2 (2022/02/27) https://github.com/robots-make-art-too/Hyewon_Kim/tree/main/lab2
 - My 100-days code (2022/03/01)
+- check group project info (2002/03/03)
