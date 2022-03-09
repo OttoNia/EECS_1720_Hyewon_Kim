@@ -39,3 +39,5 @@ today i worked on JS
 - check group project info (2002/03/03)
 - study for group project (2022/03/04)
 - study for group project (2022/03/05)
+- group project repo update (2022/03/07)
+- check lab3 info (2022/03/08)
