@@ -42,3 +42,4 @@ today i worked on JS
 - group project repo update (2022/03/07)
 - check lab3 info (2022/03/08)
 - check lab2 info (2022/03/09)
+- Ar
