@@ -44,3 +44,4 @@ today i worked on JS
 - check lab2 info (2022/03/09)
 - Ar
 - group talk about phase2
+- try AR part...
