@@ -48,3 +48,4 @@ today i worked on JS
 - Quiz3
 - lab3
 - group phase3, lab4
+- group project meeting
